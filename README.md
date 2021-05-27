@@ -7,7 +7,7 @@ The code and data in this directory are a supplement to:
 Hermes, D., Miller, K.J., Wandell, B.A., Winawer, J. (2014). Stimulus dependence of gamma oscillations in human visual cortex. Cerebral Cortex.
 
 Data can be found on:
-http://cercor.oxfordjournals.org/content/suppl/2014/05/27/bhu091.DC1
+https://academic.oup.com/cercor/article/25/9/2951/2926112#supplementary-data
 Place these data in a ./data/ directory with the code
 
 All code in this repository is written in MATLAB (Mathworks) and, together with the included data, can be used to reproduce the plots from the publication.
